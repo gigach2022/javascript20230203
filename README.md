@@ -1,0 +1,2 @@
+# javascript20230203
+ChatGPTを使ってhtmlとjavascriptを学習する。
